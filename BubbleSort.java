@@ -5,7 +5,7 @@
 
 public class BubbleSort {
 
-    private void sort(int[] arr) {
+    public void sort(int[] arr) {
         int length = arr.length;
         int count = 0;
         
